@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 
-hi
+hi welcome to my page
